@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\julien\\documents\\unreal projects\\dummyprojforplugin\\plugins\\openapi\\intermediate\\build\\win64\\unrealeditor\\development\\openapi\\module.openapi.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\julien\\documents\\unreal projects\\dummyprojforplugin\\intermediate\\build\\win64\\dummyprojforplugineditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\julien\\documents\\unreal projects\\dummyprojforplugin\\plugins\\openapi\\intermediate\\build\\win64\\unrealeditor\\development\\openapi\\definitions.openapi.h",
+            "c:\\users\\julien\\documents\\unreal projects\\dummyprojforplugin\\plugins\\openapi\\source\\openapi\\private\\openapi.cpp",
+            "c:\\users\\julien\\documents\\unreal projects\\dummyprojforplugin\\plugins\\openapi\\source\\openapi\\public\\openapi.h",
+            "c:\\users\\julien\\documents\\unreal projects\\dummyprojforplugin\\plugins\\openapi\\source\\openapi\\private\\openapibplibrary.cpp",
+            "c:\\users\\julien\\documents\\unreal projects\\dummyprojforplugin\\plugins\\openapi\\source\\openapi\\public\\openapibplibrary.h",
+            "c:\\users\\julien\\documents\\unreal projects\\dummyprojforplugin\\plugins\\openapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openapi\\openapibplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

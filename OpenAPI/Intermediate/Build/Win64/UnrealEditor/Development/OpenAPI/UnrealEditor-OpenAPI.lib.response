@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenAPI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\julien\Documents\Unreal Projects\DummyProjForPlugin\Intermediate\Build\Win64\DummyProjForPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\julien\Documents\Unreal Projects\DummyProjForPlugin\Plugins\OpenAPI\Intermediate\Build\Win64\UnrealEditor\Development\OpenAPI\Module.OpenAPI.cpp.obj"
+"C:\Users\julien\Documents\Unreal Projects\DummyProjForPlugin\Plugins\OpenAPI\Intermediate\Build\Win64\UnrealEditor\Development\OpenAPI\Module.OpenAPI.gen.cpp.obj"
+"C:\Users\julien\Documents\Unreal Projects\DummyProjForPlugin\Plugins\OpenAPI\Intermediate\Build\Win64\UnrealEditor\Development\OpenAPI\Default.rc2.res"
+/OUT:"C:\Users\julien\Documents\Unreal Projects\DummyProjForPlugin\Plugins\OpenAPI\Intermediate\Build\Win64\UnrealEditor\Development\OpenAPI\UnrealEditor-OpenAPI.lib"

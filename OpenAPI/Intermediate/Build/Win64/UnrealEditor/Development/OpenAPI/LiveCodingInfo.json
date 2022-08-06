@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OpenAPI.cpp.obj": [
+			"OpenAPI.cpp.obj",
+			"OpenAPIBaseModel.cpp.obj",
+			"OpenAPIBPLibrary.cpp.obj",
+			"OpenAPICharacterBase.cpp.obj",
+			"OpenAPICharactersApi.cpp.obj",
+			"OpenAPICharactersApiOperations.cpp.obj",
+			"OpenAPIDefaultApi.cpp.obj",
+			"OpenAPIDefaultApiOperations.cpp.obj",
+			"OpenAPIHelpers.cpp.obj",
+			"OpenAPIHTTPValidationError.cpp.obj",
+			"OpenAPIInventoryApi.cpp.obj",
+			"OpenAPIInventoryApiOperations.cpp.obj",
+			"OpenAPIInventoryBase.cpp.obj",
+			"OpenAPILoginBase.cpp.obj",
+			"OpenAPILoginInfo.cpp.obj",
+			"OpenAPILoginResponse.cpp.obj",
+			"OpenAPILoginsApi.cpp.obj",
+			"OpenAPILoginsApiOperations.cpp.obj",
+			"OpenAPILoginUpdate.cpp.obj",
+			"OpenAPIModule.cpp.obj",
+			"OpenAPIRaceBase.cpp.obj",
+			"OpenAPIRacesApi.cpp.obj",
+			"OpenAPIRacesApiOperations.cpp.obj",
+			"OpenAPIRealmBase.cpp.obj",
+			"OpenAPIRealmsApi.cpp.obj",
+			"OpenAPIRealmsApiOperations.cpp.obj",
+			"OpenAPIUserBase.cpp.obj",
+			"OpenAPIUsersApi.cpp.obj",
+			"OpenAPIUsersApiOperations.cpp.obj",
+			"OpenAPIValidationError.cpp.obj"
+		],
+		"Module.OpenAPI.gen.cpp.obj": [
+			"OpenAPI.init.gen.cpp.obj",
+			"OpenAPIBPLibrary.gen.cpp.obj"
+		]
+	}
+}
