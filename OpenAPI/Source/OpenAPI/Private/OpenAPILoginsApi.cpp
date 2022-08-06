@@ -22,7 +22,7 @@ namespace OpenAPI
 {
 
 OpenAPILoginsApi::OpenAPILoginsApi()
-: Url(TEXT("http://localhost"))
+: Url(TEXT("https://daor.next-in-tech.fr"))
 {
 }
 
